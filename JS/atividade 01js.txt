@@ -1,0 +1,17 @@
+Funcionalidade Interativa: Menu Dropdown
+Descrição
+Ao clicar em um botão de menu, uma lista de opções aparece. Ao clicar fora, a lista desaparece.
+
+Por que precisa de JavaScript?
+O CSS :hover não permite manter o menu aberto após o clique.
+Para fechar o menu ao clicar fora, é necessário JavaScript.
+Se houver animação de abertura, o JavaScript controla melhor.
+
+Como o JavaScript ajuda?
+Detecta cliques no botão e alterna a visibilidade do menu.
+Fecha o menu se o usuário clicar fora dele.
+Aplica animações suaves na abertura e fechamento.
+
+Exemplo
+Em um site de e-commerce, ao clicar em "Categorias", o menu aparece. Se clicar fora, ele some. Isso é feito com JavaScript.
+
