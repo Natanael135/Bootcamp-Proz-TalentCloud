@@ -1,0 +1,11 @@
+Extensão do VSCode: Live Server
+O que faz?
+O Live Server cria um servidor local para abrir arquivos HTML no navegador e recarregar a página automaticamente quando você salva o código.
+
+Por que usar?
+Evita ter que atualizar a página manualmente.
+É fácil de usar, basta clicar em "Go Live" no VSCode.
+Funciona com HTML, CSS e JavaScript.
+
+Conclusão
+Essa extensão facilita muito o desenvolvimento web, ajudando a ver as mudanças no site em tempo real.
